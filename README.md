@@ -2,7 +2,7 @@
 
 > **Predict employee flight risk before resignation notices are submitted, providing People Operations and HR leaders with statistically grounded risk scores, interpretable Odds Ratios, and early retention playbooks.**
 
-[Live Streamlit Dashboard](https://employee-attrition-prediction.streamlit.app/) · [Full Evaluation Report](reports/results.md) · [Cross-Validation Benchmarks](reports/model_benchmarks.csv) · REST API Docs (`/docs`)
+[Live Streamlit Dashboard](https://employeeattritionprediction-5zo.streamlit.app/) · [Full Evaluation Report](reports/results.md) · [Cross-Validation Benchmarks](reports/model_benchmarks.csv) · REST API Docs (`/docs`)
 
 ---
 
